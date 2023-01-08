@@ -1,3 +1,9 @@
+# Team Members
+
+
+Omar Almohammad Ali 277011
+Nadeer Salem 274491
+
 # Credit Score Classification
 
 # Introduction
